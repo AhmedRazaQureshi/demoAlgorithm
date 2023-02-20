@@ -233,11 +233,7 @@ class App extends Component {
 					</span>
 				</h1>
 
-				<h1 className='page-header_title risetext' >
-					<span className='page-header_title-main enclose'>
-						IET Agra Simulator
-					</span>
-				</h1>
+				
 
 				
 				<div className='frame'>
